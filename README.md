@@ -1,3 +1,5 @@
+<br>
+
 ## Skills
 <div>
   <img src="https://img.shields.io/badge/JavaScript-333333?logo=JavaScript&logoColor=white"/>
