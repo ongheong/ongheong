@@ -40,7 +40,7 @@
 <table>
   <tr>
     <th width="150px" style="white-space: pre-wrap; word-wrap: break-word;">프로젝트 명</th>
-    <th style="white-space: pre-wrap; word-wrap: break-word;">내용</th>
+    <th width="500px" style="white-space: pre-wrap; word-wrap: break-word;">내용</th>
     <th width="200px" style="white-space: pre-wrap; word-wrap: break-word;">소속</th>
     <th width="200px" style="white-space: pre-wrap; word-wrap: break-word;">기간</th>
   </tr>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/Nolmung/Nolmung-client">놀멍(Nolmung)</a></td>
-    <td>강아지 동반 가능 시설 공유 플랫폼</td>
+    <td>지도 기반 강아지 동반 가능 시설 공유 플랫폼</td>
     <td>유레카 SW 교육과정 1기</td>
     <td>2024.10 - 2024.11</td>
   </tr>
