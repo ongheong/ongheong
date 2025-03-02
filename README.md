@@ -39,10 +39,10 @@
 
 <table>
   <tr>
-    <th width="150px">프로젝트 명</th>
-    <th >내용</th>
-    <th width="200px">소속</th>
-    <th width="200px">기간</th>
+    <th width="150px" style="white-space: pre-wrap; word-wrap: break-word;">프로젝트 명</th>
+    <th style="white-space: pre-wrap; word-wrap: break-word;">내용</th>
+    <th width="200px" style="white-space: pre-wrap; word-wrap: break-word;">소속</th>
+    <th width="200px" style="white-space: pre-wrap; word-wrap: break-word;">기간</th>
   </tr>
   <tr>
     <td><a href="https://github.com/dnd-side-project/dnd-12th-7-frontend">모또(Moddo)</a></td>
