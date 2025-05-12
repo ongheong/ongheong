@@ -57,7 +57,7 @@
     <td>2024.10 - 2024.11</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/PawSeul/PawSeul">포슬(PawSeul)</a></td>
+    <td><a href="https://github.com/ongheong/PawSeul">포슬(PawSeul)</a></td>
     <td>건강 기반 AI 제품추천 반려견 이커머스 서비스</td>
     <td>유레카 SW 교육과정 1기</td>
     <td>2024.10 - 2024.11</td>
