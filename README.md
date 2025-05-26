@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Flutter-333333?logo=Flutter&logoColor=white"/>
 
 <br>
-  <img src="https://img.shields.io/badge/Tanstack query-333333?logo=React Query&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tanstack Query-333333?logo=reactquery&logoColor=white"/>
   <img src="https://img.shields.io/badge/Storybook-333333?logo=Storybook&logoColor=white"/>
 </div>
 
@@ -81,7 +81,7 @@
 ## Achievements
 - DND 12기 데모데이 최우수상 (2025.02) | [모또](https://github.com/dnd-side-project/dnd-12th-7-frontend) 
 - 2024 K-Digital Training 과정 종합프로젝트 경진대회 우수상 (2024.12) | [놀멍](https://github.com/Nolmung/Nolmung-client)
-- 2024 K-Digital Training 과정 종합프로젝트 경진대회 최우수상 (2024.11) | [포슬](https://github.com/PawSeul/PawSeul)
+- 2024 K-Digital Training 과정 종합프로젝트 경진대회 최우수상 (2024.11) | [포슬](https://github.com/ongheong/PawSeul)
 - 2024 Epson Innovation Challenge 본선 진출 (2024.06) | [SnapIt!](https://github.com/Many-Ong/Epson-SnapIt-FE)
 - 2024 U-LINC 협력사업 경진대회 최우수상 (2024.02) | [UNI-SPHERE](https://github.com/ongheong/UNISPHERE-WEB)
 
